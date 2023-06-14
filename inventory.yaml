@@ -8,6 +8,6 @@ ansible_winrm_server_cert_validation=ignore
 ansible_winrm_scheme=http
 ansible_winrm_scheme=https
 #Reference
-https://docs.ansible.com/ansible/latest/user_guide/windows_winrm.html
+https://docs.ansible.com/ansible/latest/user_guide/windows_winrm.html  
 
 
