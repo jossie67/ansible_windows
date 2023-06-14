@@ -1,8 +1,8 @@
 [windows]
 host=192.168.10.130
 [windows:vars]
-#ansible_user=ans...@UAT.INTRA.COM
-#ansible_password="P@$$wo6d"
+ansible_user=ansible
+ansible_password="SuperSecurePassword123@"
 ansible_port=5986
 ansible_connection=winrm
 ansible_winrm_transport=basic
